@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Stability.ai Image Generator",
+    "version": "1.0",
+    "description": "Generate images using Stability.ai API",
+    "permissions": ["activeTab", "storage"],
+    "browser_action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
